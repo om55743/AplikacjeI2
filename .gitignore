@@ -1,0 +1,8 @@
+# Node.js runtime – not part of the labs
+node-v*/
+
+# Dependencies
+node_modules/
+
+# IDE settings
+.idea/
